@@ -1,0 +1,2 @@
+[1218/115145.656:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\LOKESH\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\eddb1d44-aef3-4042-a0f6-9769f4452113: The system cannot find the path specified. (0x3)
+[1218/115145.636:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
